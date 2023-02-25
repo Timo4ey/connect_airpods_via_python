@@ -1,4 +1,4 @@
-
+# Connecting Bluetooth devices to your linux desctop
 If you want to automate connecting and disconnecting your Airpods to your laptop clicking a couple of buttons then you are in the right place.
 
 Here you'll find the easy way to do it.
